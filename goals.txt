@@ -1,5 +1,1 @@
-My Personal and Academic Goals for Next Year
-- Become an academic weapon
-- Do a new course
-- At least know how to drive
-- Make new connections
+printf "My Personal and Academic Goals for Next Year\n- Improve my coding skills\n- Complete all pending assignments\n- Start contributing to open source\n- Learn Git and GitHub workflows\n" > goals.txt

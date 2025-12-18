@@ -1,1 +1,1 @@
-printf "My Personal and Academic Goals for Next Year\n- Improve my coding skills\n- Complete all pending assignments\n- Start contributing to open source\n- Learn Git and GitHub workflows\n" > goals.txt
+printf "My Personal and Academic Goals for Next Year\n- Improve my coding skills\n- Complete all assignments\n- Contribute to open source\n- Learn Git and GitHub workflows\n" > goals.txt

@@ -1,1 +1,7 @@
-printf "My Personal and Academic Goals for Next Year\n- Improve my coding skills\n- Complete all assignments\n- Contribute to open source\n- Learn Git and GitHub workflows\n" > goals.txt
+My Personal and Academic Goals for Next Year
+- Improve my programming and problem-solving skills
+- Complete all coursework and assignments on time
+- Gain a deeper understanding of Linux and shell scripting
+- Practice using Git and GitHub for version control
+- Build small projects to strengthen my technical skills
+- Improve time management and study consistency
